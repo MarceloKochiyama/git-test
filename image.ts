@@ -1,2 +1,2 @@
-console.log("Biggest Image");
+console.log("Image");
 console.log("Audio message");
