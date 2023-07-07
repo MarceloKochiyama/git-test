@@ -1,1 +1,1 @@
-console.log("Biggest Image");
+console.log("Image");
